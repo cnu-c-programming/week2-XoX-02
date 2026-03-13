@@ -8,7 +8,7 @@ int main()
     printf("%10s %012d %10.2f\n", "lee",  1922, 3.21);
     printf("%10s %012d %10.2f\n", "park", 432,  1.00);
 
-    printf("\n");  // 개행
+    printf("\n");
 
     return 0;
 }
